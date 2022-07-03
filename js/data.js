@@ -94,7 +94,13 @@ var seasons = [
 			crops.bluejazz,
 			crops.tulip,
 			crops.ancientfruit,
-			crops.springseeds
+			crops.springseeds,
+			crops.'Lentils (PH)',
+			corps.'Raspberry (PH)',
+			crop.'Watermelon (PH)',
+			crop.'Carrot (PH)',
+			crop.'Field Pea (PH)',
+			crop.'Asparagus (PH)'
 		]
 	},
 	{
@@ -119,7 +125,13 @@ var seasons = [
 			crops.sunflower,
 			crops.ancientfruit,
 			crops.taroroot,
-			crops.summerseeds
+			crops.summerseeds,
+			crop.'Onion (PH)',
+			crop.'Basil (PH)',
+			crop.'Currant (PH)',
+			crop.'Dragon Fruit (PH)',
+			crop.'Bell Pepper (PH)',
+			crop.'Cucumber (PH)'
 		]
 	},
 	{
@@ -142,14 +154,26 @@ var seasons = [
 			crops.wheat,
 			crops.corn,
 			crops.ancientfruit,
-			crops.fallseeds
+			crops.fallseeds,
+			crop.'Peanut (PH)',
+			crop.'Soy (PH)',
+			crop.'Quince (PH)',
+			crop.'Huckleberry (PH)',
+			crop.'Butternut Squash (PH)',
+			crop.'Sweet Potato (PH)'
 		]
 	},
 	{
 		"name": "Winter",
 		"duration": 28,
 		"crops": [
-			crops.winterseeds
+			crops.winterseeds,
+			crop.'Parsley (PH)',
+			crop.'Broccoli (PH)',
+			crop.'Chard (PH)',
+			crop.'Lettuce (PH)',
+			crop.'Elderberry (PH)',
+			crop.'Silver Gourd (PH)'
 		]
 	},
 	{

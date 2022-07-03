@@ -1033,5 +1033,533 @@ var crops = {
       "kegType": "Wine"
     },
     "isWildseed": true
+  },
+  "Asparagus (PH)": {
+    "name": "Asparagus (PH)",
+    "img": "Asparagus (PH).png",
+    "growth": {
+      "initial": 9,
+      "regrow": -1
+    },
+    "seeds": {
+      "pierre": 0,
+      "joja": 0,
+      "special": 45,
+      "specialLoc": "STF.PlentifulHarvest",
+      "specialUrl": ""
+    },
+    "produce": {
+      "extra": 0,
+      "extraPerc": 0,
+      "price": 60,
+      "jarType": "Pickles",
+      "kegType": "Juice"
+    }
+  },
+  "Basil (PH)": {
+    "name": "Basil (PH)",
+    "img": "Basil (PH).png",
+    "growth": {
+      "initial": 4,
+      "regrow": -1
+    },
+    "seeds": {
+      "pierre": 0,
+      "joja": 0,
+      "special": 5,
+      "specialLoc": "STF.PlentifulHarvest",
+      "specialUrl": ""
+    },
+    "produce": {
+      "extra": 0,
+      "extraPerc": 0,
+      "price": 12,
+      "jarType": "Pickles",
+      "kegType": "Juice"
+    }
+  },
+  "Bell Pepper (PH)": {
+    "name": "Bell Pepper (PH)",
+    "img": "Bell Pepper (PH).png",
+    "growth": {
+      "initial": 9,
+      "regrow": -1
+    },
+    "seeds": {
+      "pierre": 0,
+      "joja": 0,
+      "special": 45,
+      "specialLoc": "STF.PlentifulHarvest",
+      "specialUrl": ""
+    },
+    "produce": {
+      "extra": 0,
+      "extraPerc": 0,
+      "price": 100,
+      "jarType": "Pickles",
+      "kegType": "Juice"
+    }
+  },
+  "Broccoli (PH)": {
+    "name": "Broccoli (PH)",
+    "img": "Broccoli (PH).png",
+    "growth": {
+      "initial": 12,
+      "regrow": -1
+    },
+    "seeds": {
+      "pierre": 0,
+      "joja": 0,
+      "special": 70,
+      "specialLoc": "STF.PlentifulHarvest",
+      "specialUrl": ""
+    },
+    "produce": {
+      "extra": 0,
+      "extraPerc": 0,
+      "price": 170,
+      "jarType": "Pickles",
+      "kegType": "Juice"
+    }
+  },
+  "Butternut Squash (PH)": {
+    "name": "Butternut Squash (PH)",
+    "img": "Butternut Squash (PH).png",
+    "growth": {
+      "initial": 12,
+      "regrow": -1
+    },
+    "seeds": {
+      "pierre": 0,
+      "joja": 0,
+      "special": 90,
+      "specialLoc": "STF.PlentifulHarvest",
+      "specialUrl": ""
+    },
+    "produce": {
+      "extra": 0,
+      "extraPerc": 0,
+      "price": 180,
+      "jarType": "Pickles",
+      "kegType": "Juice"
+    }
+  },
+  "Carrot (PH)": {
+    "name": "Carrot (PH)",
+    "img": "Carrot (PH).png",
+    "growth": {
+      "initial": 4,
+      "regrow": -1
+    },
+    "seeds": {
+      "pierre": 0,
+      "joja": 0,
+      "special": 25,
+      "specialLoc": "STF.PlentifulHarvest",
+      "specialUrl": ""
+    },
+    "produce": {
+      "extra": 0,
+      "extraPerc": 0,
+      "price": 40,
+      "jarType": "Pickles",
+      "kegType": "Juice"
+    }
+  },
+  "Chard (PH)": {
+    "name": "Chard (PH)",
+    "img": "Chard (PH).png",
+    "growth": {
+      "initial": 9,
+      "regrow": -1
+    },
+    "seeds": {
+      "pierre": 0,
+      "joja": 0,
+      "special": 70,
+      "specialLoc": "STF.PlentifulHarvest",
+      "specialUrl": ""
+    },
+    "produce": {
+      "extra": 0,
+      "extraPerc": 0,
+      "price": 156,
+      "jarType": "Pickles",
+      "kegType": "Juice"
+    }
+  },
+  "Cucumber (PH)": {
+    "name": "Cucumber (PH)",
+    "img": "Cucumber (PH).png",
+    "growth": {
+      "initial": 8,
+      "regrow": 3
+    },
+    "seeds": {
+      "pierre": 0,
+      "joja": 0,
+      "special": 90,
+      "specialLoc": "STF.PlentifulHarvest",
+      "specialUrl": ""
+    },
+    "produce": {
+      "extra": 0,
+      "extraPerc": 0,
+      "price": 32,
+      "jarType": "Pickles",
+      "kegType": "Juice"
+    }
+  },
+  "Currant (PH)": {
+    "name": "Currant (PH)",
+    "img": "Currant (PH).png",
+    "growth": {
+      "initial": 8,
+      "regrow": 2
+    },
+    "seeds": {
+      "pierre": 0,
+      "joja": 0,
+      "special": 45,
+      "specialLoc": "STF.PlentifulHarvest",
+      "specialUrl": ""
+    },
+    "produce": {
+      "extra": 0,
+      "extraPerc": 0,
+      "price": 18,
+      "jarType": "Jelly",
+      "kegType": "Wine"
+    }
+  },
+  "Dragon Fruit (PH)": {
+    "name": "Dragon Fruit (PH)",
+    "img": "Dragon Fruit (PH).png",
+    "growth": {
+      "initial": 17,
+      "regrow": 6
+    },
+    "seeds": {
+      "pierre": 0,
+      "joja": 0,
+      "special": 200,
+      "specialLoc": "STF.PlentifulHarvest",
+      "specialUrl": ""
+    },
+    "produce": {
+      "extra": 2,
+      "extraPerc": 0.05,
+      "price": 110,
+      "jarType": "Jelly",
+      "kegType": "Wine"
+    }
+  },
+  "Elderberry (PH)": {
+    "name": "Elderberry (PH)",
+    "img": "Elderberry (PH).png",
+    "growth": {
+      "initial": 9,
+      "regrow": 3
+    },
+    "seeds": {
+      "pierre": 0,
+      "joja": 0,
+      "special": 35,
+      "specialLoc": "STF.PlentifulHarvest",
+      "specialUrl": ""
+    },
+    "produce": {
+      "extra": 0,
+      "extraPerc": 0,
+      "price": 25,
+      "jarType": "Jelly",
+      "kegType": "Wine"
+    }
+  },
+  "Field Pea (PH)": {
+    "name": "Field Pea (PH)",
+    "img": "Field Pea (PH).png",
+    "growth": {
+      "initial": 7,
+      "regrow": 4
+    },
+    "seeds": {
+      "pierre": 0,
+      "joja": 0,
+      "special": 50,
+      "specialLoc": "STF.PlentifulHarvest",
+      "specialUrl": ""
+    },
+    "produce": {
+      "extra": 0,
+      "extraPerc": 0.3,
+      "price": 20,
+      "jarType": "Pickles",
+      "kegType": "Juice"
+    }
+  },
+  "Huckleberry (PH)": {
+    "name": "Huckleberry (PH)",
+    "img": "Huckleberry (PH).png",
+    "growth": {
+      "initial": 7,
+      "regrow": 3
+    },
+    "seeds": {
+      "pierre": 0,
+      "joja": 0,
+      "special": 150,
+      "specialLoc": "STF.PlentifulHarvest",
+      "specialUrl": ""
+    },
+    "produce": {
+      "extra": 1,
+      "extraPerc": 0.1,
+      "price": 70,
+      "jarType": "Jelly",
+      "kegType": "Wine"
+    }
+  },
+  "Lentil (PH)": {
+    "name": "Lentils (PH)",
+    "img": "Lentil (PH).png",
+    "growth": {
+      "initial": 6,
+      "regrow": -1
+    },
+    "seeds": {
+      "pierre": 0,
+      "joja": 0,
+      "special": 34,
+      "specialLoc": "STF.PlentifulHarvest",
+      "specialUrl": ""
+    },
+    "produce": {
+      "extra": 0,
+      "extraPerc": 0,
+      "price": 48,
+      "jarType": "Pickles",
+      "kegType": "Juice"
+    }
+  },
+  "Lettuce (PH)": {
+    "name": "Lettuce (PH)",
+    "img": "Lettuce (PH).png",
+    "growth": {
+      "initial": 10,
+      "regrow": -1
+    },
+    "seeds": {
+      "pierre": 0,
+      "joja": 0,
+      "special": 80,
+      "specialLoc": "STF.PlentifulHarvest",
+      "specialUrl": ""
+    },
+    "produce": {
+      "extra": 0,
+      "extraPerc": 0,
+      "price": 180,
+      "jarType": "Pickles",
+      "kegType": "Juice"
+    }
+  },
+  "Onion (PH)": {
+    "name": "Onion (PH)",
+    "img": "Onion (PH).png",
+    "growth": {
+      "initial": 8,
+      "regrow": -1
+    },
+    "seeds": {
+      "pierre": 0,
+      "joja": 0,
+      "special": 40,
+      "specialLoc": "STF.PlentifulHarvest",
+      "specialUrl": ""
+    },
+    "produce": {
+      "extra": 0,
+      "extraPerc": 0,
+      "price": 56,
+      "jarType": "Pickles",
+      "kegType": "Juice"
+    }
+  },
+  "Parsley (PH)": {
+    "name": "Parsley (PH)",
+    "img": "Parsley (PH).png",
+    "growth": {
+      "initial": 4,
+      "regrow": -1
+    },
+    "seeds": {
+      "pierre": 0,
+      "joja": 0,
+      "special": 8,
+      "specialLoc": "STF.PlentifulHarvest",
+      "specialUrl": ""
+    },
+    "produce": {
+      "extra": 0,
+      "extraPerc": 0,
+      "price": 16,
+      "jarType": "Pickles",
+      "kegType": "Juice"
+    }
+  },
+  "Peanut (PH)": {
+    "name": "Peanut (PH)",
+    "img": "Peanut (PH).png",
+    "growth": {
+      "initial": 8,
+      "regrow": -1
+    },
+    "seeds": {
+      "pierre": 0,
+      "joja": 0,
+      "special": 75,
+      "specialLoc": "STF.PlentifulHarvest",
+      "specialUrl": ""
+    },
+    "produce": {
+      "extra": 0,
+      "extraPerc": 0.1,
+      "price": 50,
+      "jarType": "Pickles",
+      "kegType": "Juice"
+    }
+  },
+  "Quince (PH)": {
+    "name": "Quince (PH)",
+    "img": "Quince (PH).png",
+    "growth": {
+      "initial": 9,
+      "regrow": 3
+    },
+    "seeds": {
+      "pierre": 0,
+      "joja": 0,
+      "special": 80,
+      "specialLoc": "STF.PlentifulHarvest",
+      "specialUrl": ""
+    },
+    "produce": {
+      "extra": 0,
+      "extraPerc": 0.2,
+      "price": 52,
+      "jarType": "Jelly",
+      "kegType": "Wine"
+    }
+  },
+  "Raspberry (PH)": {
+    "name": "Raspberry (PH)",
+    "img": "Raspberry (PH).png",
+    "growth": {
+      "initial": 7,
+      "regrow": 3
+    },
+    "seeds": {
+      "pierre": 0,
+      "joja": 0,
+      "special": 40,
+      "specialLoc": "STF.PlentifulHarvest",
+      "specialUrl": ""
+    },
+    "produce": {
+      "extra": 0,
+      "extraPerc": 0.5,
+      "price": 15,
+      "jarType": "Jelly",
+      "kegType": "Wine"
+    }
+  },
+  "Silver Gourd (PH)": {
+    "name": "Silver Gourd (PH)",
+    "img": "Silver Gourd (PH).png",
+    "growth": {
+      "initial": 13,
+      "regrow": -1
+    },
+    "seeds": {
+      "pierre": 0,
+      "joja": 0,
+      "special": 92,
+      "specialLoc": "STF.PlentifulHarvest",
+      "specialUrl": ""
+    },
+    "produce": {
+      "extra": 0,
+      "extraPerc": 0,
+      "price": 193,
+      "jarType": "Pickles",
+      "kegType": "Juice"
+    }
+  },
+  "Soy (PH)": {
+    "name": "Soy (PH)",
+    "img": "Soy (PH).png",
+    "growth": {
+      "initial": 5,
+      "regrow": 2
+    },
+    "seeds": {
+      "pierre": 0,
+      "joja": 0,
+      "special": 64,
+      "specialLoc": "STF.PlentifulHarvest",
+      "specialUrl": ""
+    },
+    "produce": {
+      "extra": 0,
+      "extraPerc": 0.2,
+      "price": 32,
+      "jarType": "Pickles",
+      "kegType": "Juice"
+    }
+  },
+  "Sweet Potato (PH)": {
+    "name": "Sweet Potato (PH)",
+    "img": "Sweet Potato (PH).png",
+    "growth": {
+      "initial": 6,
+      "regrow": -1
+    },
+    "seeds": {
+      "pierre": 0,
+      "joja": 0,
+      "special": 20,
+      "specialLoc": "STF.PlentifulHarvest",
+      "specialUrl": ""
+    },
+    "produce": {
+      "extra": 0,
+      "extraPerc": 0.3,
+      "price": 44,
+      "jarType": "Pickles",
+      "kegType": "Juice"
+    }
+  },
+  "Watermelon (PH)": {
+    "name": "Watermelon (PH)",
+    "img": "Watermelon (PH).png",
+    "growth": {
+      "initial": 12,
+      "regrow": 5
+    },
+    "seeds": {
+      "pierre": 0,
+      "joja": 0,
+      "special": 95,
+      "specialLoc": "STF.PlentifulHarvest",
+      "specialUrl": ""
+    },
+    "produce": {
+      "extra": 0,
+      "extraPerc": 0,
+      "price": 135,
+      "jarType": "Jelly",
+      "kegType": "Wine"
+    }
   }
 };
