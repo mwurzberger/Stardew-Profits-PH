@@ -99,7 +99,7 @@ var seasons = [
 			crops.Raspberry_PH,
 			crops.Watermelon_PH,
 			crops.Carrot_PH,
-			crops.Field Pea_PH,
+			crops.FieldPea_PH,
 			crops.Asparagus_PH
 		]
 	},
@@ -129,8 +129,8 @@ var seasons = [
 			crops.Onion_PH,
 			crops.Basil_PH,
 			crops.Currant_PH,
-			crops.Dragon Fruit_PH,
-			crops.Bell Pepper_PH,
+			crops.DragonFruit_PH,
+			crops.BellPepper_PH,
 			crops.Cucumber_PH
 		]
 	},
@@ -159,8 +159,8 @@ var seasons = [
 			crops.Soy_PH,
 			crops.Quince_PH,
 			crops.Huckleberry_PH,
-			crops.Butternut Squash_PH,
-			crops.Sweet Potato_PH
+			crops.ButternutSquash_PH,
+			crops.SweetPotato_PH
 		]
 	},
 	{
@@ -173,7 +173,7 @@ var seasons = [
 			crops.Chard_PH,
 			crops.Lettuce_PH,
 			crops.Elderberry_PH,
-			crops.Silver Gourd_PH
+			crops.SilverGourd_PH
 		]
 	},
 	{
