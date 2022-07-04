@@ -95,12 +95,12 @@ var seasons = [
 			crops.tulip,
 			crops.ancientfruit,
 			crops.springseeds,
-			crops['Lentils (PH)'],
-			crops['Raspberry (PH)'],
-			crops['Watermelon (PH)'],
-			crops['Carrot (PH)'],
-			crops['Field Pea (PH)'],
-			crops['Asparagus (PH)']
+			crops['Lentils_PH'],
+			crops['Raspberry_PH'],
+			crops['Watermelon_PH'],
+			crops['Carrot_PH'],
+			crops['Field Pea_PH'],
+			crops['Asparagus_PH']
 		]
 	},
 	{
@@ -126,12 +126,12 @@ var seasons = [
 			crops.ancientfruit,
 			crops.taroroot,
 			crops.summerseeds,
-			crops['Onion (PH)'],
-			crops['Basil (PH)'],
-			crops['Currant (PH)'],
-			crops['Dragon Fruit (PH)'],
-			crops['Bell Pepper (PH)'],
-			crops['Cucumber (PH)']
+			crops['Onion_PH'],
+			crops['Basil_PH'],
+			crops['Currant_PH'],
+			crops['Dragon Fruit_PH'],
+			crops['Bell Pepper_PH'],
+			crops['Cucumber_PH']
 		]
 	},
 	{
@@ -155,12 +155,12 @@ var seasons = [
 			crops.corn,
 			crops.ancientfruit,
 			crops.fallseeds,
-			crops['Peanut (PH)'],
-			crops['Soy (PH)'],
-			crops['Quince (PH)'],
-			crops['Huckleberry (PH)'],
-			crops['Butternut Squash (PH)'],
-			crops['Sweet Potato (PH)']
+			crops['Peanut_PH'],
+			crops['Soy_PH'],
+			crops['Quince_PH'],
+			crops['Huckleberry_PH'],
+			crops['Butternut Squash_PH'],
+			crops['Sweet Potato_PH']
 		]
 	},
 	{
@@ -168,12 +168,12 @@ var seasons = [
 		"duration": 28,
 		"crops": [
 			crops.winterseeds,
-			crops['Parsley (PH)'],
-			crops['Broccoli (PH)'],
-			crops['Chard (PH)'],
-			crops['Lettuce (PH)'],
-			crops['Elderberry (PH)'],
-			crops['Silver Gourd (PH)']
+			crops['Parsley_PH'],
+			crops['Broccoli_PH'],
+			crops['Chard_PH'],
+			crops['Lettuce_PH'],
+			crops['Elderberry_PH'],
+			crops['Silver Gourd_PH']
 		]
 	},
 	{

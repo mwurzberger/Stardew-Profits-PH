@@ -1034,7 +1034,7 @@ var crops = {
     },
     "isWildseed": true
   },
-  "Asparagus (PH)": {
+  "Asparagus_PH": {
     "name": "Asparagus (PH)",
     "img": "Asparagus (PH).png",
     "growth": {
@@ -1056,7 +1056,7 @@ var crops = {
       "kegType": "Juice"
     }
   },
-  "Basil (PH)": {
+  "Basil_PH": {
     "name": "Basil (PH)",
     "img": "Basil (PH).png",
     "growth": {
@@ -1078,7 +1078,7 @@ var crops = {
       "kegType": "Juice"
     }
   },
-  "Bell Pepper (PH)": {
+  "Bell Pepper_PH": {
     "name": "Bell Pepper (PH)",
     "img": "Bell Pepper (PH).png",
     "growth": {
@@ -1100,7 +1100,7 @@ var crops = {
       "kegType": "Juice"
     }
   },
-  "Broccoli (PH)": {
+  "Broccoli_PH": {
     "name": "Broccoli (PH)",
     "img": "Broccoli (PH).png",
     "growth": {
@@ -1122,7 +1122,7 @@ var crops = {
       "kegType": "Juice"
     }
   },
-  "Butternut Squash (PH)": {
+  "Butternut Squash_PH": {
     "name": "Butternut Squash (PH)",
     "img": "Butternut Squash (PH).png",
     "growth": {
@@ -1144,7 +1144,7 @@ var crops = {
       "kegType": "Juice"
     }
   },
-  "Carrot (PH)": {
+  "Carrot_PH": {
     "name": "Carrot (PH)",
     "img": "Carrot (PH).png",
     "growth": {
@@ -1166,7 +1166,7 @@ var crops = {
       "kegType": "Juice"
     }
   },
-  "Chard (PH)": {
+  "Chard_PH": {
     "name": "Chard (PH)",
     "img": "Chard (PH).png",
     "growth": {
@@ -1188,7 +1188,7 @@ var crops = {
       "kegType": "Juice"
     }
   },
-  "Cucumber (PH)": {
+  "Cucumber_PH": {
     "name": "Cucumber (PH)",
     "img": "Cucumber (PH).png",
     "growth": {
@@ -1210,7 +1210,7 @@ var crops = {
       "kegType": "Juice"
     }
   },
-  "Currant (PH)": {
+  "Currant_PH": {
     "name": "Currant (PH)",
     "img": "Currant (PH).png",
     "growth": {
@@ -1232,7 +1232,7 @@ var crops = {
       "kegType": "Wine"
     }
   },
-  "Dragon Fruit (PH)": {
+  "Dragon Fruit_PH": {
     "name": "Dragon Fruit (PH)",
     "img": "Dragon Fruit (PH).png",
     "growth": {
@@ -1254,7 +1254,7 @@ var crops = {
       "kegType": "Wine"
     }
   },
-  "Elderberry (PH)": {
+  "Elderberry_PH": {
     "name": "Elderberry (PH)",
     "img": "Elderberry (PH).png",
     "growth": {
@@ -1276,7 +1276,7 @@ var crops = {
       "kegType": "Wine"
     }
   },
-  "Field Pea (PH)": {
+  "Field Pea_PH": {
     "name": "Field Pea (PH)",
     "img": "Field Pea (PH).png",
     "growth": {
@@ -1298,7 +1298,7 @@ var crops = {
       "kegType": "Juice"
     }
   },
-  "Huckleberry (PH)": {
+  "Huckleberry_PH": {
     "name": "Huckleberry (PH)",
     "img": "Huckleberry (PH).png",
     "growth": {
@@ -1320,7 +1320,7 @@ var crops = {
       "kegType": "Wine"
     }
   },
-  "Lentil (PH)": {
+  "Lentil_PH": {
     "name": "Lentils (PH)",
     "img": "Lentil (PH).png",
     "growth": {
@@ -1342,7 +1342,7 @@ var crops = {
       "kegType": "Juice"
     }
   },
-  "Lettuce (PH)": {
+  "Lettuce_PH": {
     "name": "Lettuce (PH)",
     "img": "Lettuce (PH).png",
     "growth": {
@@ -1364,7 +1364,7 @@ var crops = {
       "kegType": "Juice"
     }
   },
-  "Onion (PH)": {
+  "Onion_PH": {
     "name": "Onion (PH)",
     "img": "Onion (PH).png",
     "growth": {
@@ -1386,7 +1386,7 @@ var crops = {
       "kegType": "Juice"
     }
   },
-  "Parsley (PH)": {
+  "Parsley_PH": {
     "name": "Parsley (PH)",
     "img": "Parsley (PH).png",
     "growth": {
@@ -1408,7 +1408,7 @@ var crops = {
       "kegType": "Juice"
     }
   },
-  "Peanut (PH)": {
+  "Peanut_PH": {
     "name": "Peanut (PH)",
     "img": "Peanut (PH).png",
     "growth": {
@@ -1430,7 +1430,7 @@ var crops = {
       "kegType": "Juice"
     }
   },
-  "Quince (PH)": {
+  "Quince_PH": {
     "name": "Quince (PH)",
     "img": "Quince (PH).png",
     "growth": {
@@ -1452,7 +1452,7 @@ var crops = {
       "kegType": "Wine"
     }
   },
-  "Raspberry (PH)": {
+  "Raspberry_PH": {
     "name": "Raspberry (PH)",
     "img": "Raspberry (PH).png",
     "growth": {
@@ -1474,7 +1474,7 @@ var crops = {
       "kegType": "Wine"
     }
   },
-  "Silver Gourd (PH)": {
+  "Silver Gourd_PH": {
     "name": "Silver Gourd (PH)",
     "img": "Silver Gourd (PH).png",
     "growth": {
@@ -1496,7 +1496,7 @@ var crops = {
       "kegType": "Juice"
     }
   },
-  "Soy (PH)": {
+  "Soy_PH": {
     "name": "Soy (PH)",
     "img": "Soy (PH).png",
     "growth": {
@@ -1518,7 +1518,7 @@ var crops = {
       "kegType": "Juice"
     }
   },
-  "Sweet Potato (PH)": {
+  "Sweet Potato_PH": {
     "name": "Sweet Potato (PH)",
     "img": "Sweet Potato (PH).png",
     "growth": {
@@ -1540,7 +1540,7 @@ var crops = {
       "kegType": "Juice"
     }
   },
-  "Watermelon (PH)": {
+  "Watermelon_PH": {
     "name": "Watermelon (PH)",
     "img": "Watermelon (PH).png",
     "growth": {
