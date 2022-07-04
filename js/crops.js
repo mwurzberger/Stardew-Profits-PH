@@ -1320,7 +1320,7 @@ var crops = {
       "kegType": "Wine"
     }
   },
-  "Lentil_PH": {
+  "Lentils_PH": {
     "name": "Lentils (PH)",
     "img": "Lentil (PH).png",
     "growth": {
